@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "userData": {
+        "name": "Bharat Bhople",
+        "birthDate": "2022-06-09",
+        "email": "bharatbhople2@gmail.com",
+        "about": "Hi i'm bharat bhople i'm from aurangabad maharashtra and i'm react js developer"
+      },
+      "project": {
+        "project_name": "e-commerce",
+        "project_description": "This is e-commerce project which is made using react js",
+        "role": "front end development"
+      },
+      "education": {
+        "education_name": "BCS",
+        "education_location": "Aurangabad",
+        "education_about": "This is under Graducation course"
+      },
+      "experience": {
+        "company_name": "Skillhub IT Solution",
+        "job_post": "React js intern",
+        "job_location": "Aurangabad",
+        "job_description": "This is service Base Company"
+      },
+      "language": {
+        "first_language": "hindi",
+        "second_language": "english"
+      },
+      "skill": {
+        "first_skill": "HTML",
+        "second_skill": "CSS"
+      },
+      "id": 1
+    }
+  ]
+}
